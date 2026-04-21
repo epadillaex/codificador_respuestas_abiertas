@@ -1,0 +1,79 @@
+{
+  "categorias": [
+    {
+      "codigo": "C01",
+      "categoria": "Puntualidad",
+      "descripcion": "Retrasos, incumplimiento de horarios"
+    },
+    {
+      "codigo": "C02",
+      "categoria": "Frecuencia insuficiente",
+      "descripcion": "Poca frecuencia de paso"
+    },
+    {
+      "codigo": "C03",
+      "categoria": "Precio alto",
+      "descripcion": "Coste del servicio elevado"
+    },
+    {
+      "codigo": "C04",
+      "categoria": "Limpieza",
+      "descripcion": "Suciedad en vehículos o instalaciones"
+    },
+    {
+      "codigo": "C05",
+      "categoria": "Comodidad",
+      "descripcion": "Asientos incómodos, falta de espacio"
+    },
+    {
+      "codigo": "C06",
+      "categoria": "Atención del personal",
+      "descripcion": "Trato del conductor o empleados"
+    },
+    {
+      "codigo": "C07",
+      "categoria": "Información",
+      "descripcion": "Falta de claridad en horarios o información"
+    },
+    {
+      "codigo": "C08",
+      "categoria": "Seguridad",
+      "descripcion": "Sensación de inseguridad o incidentes"
+    },
+    {
+      "codigo": "C09",
+      "categoria": "Accesibilidad",
+      "descripcion": "Dificultades para personas con movilidad reducida"
+    },
+    {
+      "codigo": "C10",
+      "categoria": "Cobertura de rutas",
+      "descripcion": "Falta de rutas o mala cobertura"
+    },
+    {
+      "codigo": "C11",
+      "categoria": "App/Web",
+      "descripcion": "Problemas con la aplicación o web"
+    },
+    {
+      "codigo": "C12",
+      "categoria": "Masificación",
+      "descripcion": "Demasiada gente, saturación"
+    },
+    {
+      "codigo": "C13",
+      "categoria": "Climatización",
+      "descripcion": "Problemas de temperatura (frío/calor)"
+    },
+    {
+      "codigo": "C14",
+      "categoria": "Ruido",
+      "descripcion": "Exceso de ruido en el servicio"
+    },
+    {
+      "codigo": "C15",
+      "categoria": "Sin mejoras",
+      "descripcion": "Todo bien, nada que mejorar, no sabe/no contesta"
+    }
+  ]
+}
